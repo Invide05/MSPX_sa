@@ -1,0 +1,29 @@
+[2024/11/27 19:39:39]: §9          __             _       
+[2024/11/27 19:39:39]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/11/27 19:39:39]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/11/27 19:39:39]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/11/27 19:39:39]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/11/27 19:39:39]: §9                  |___/            
+[2024/11/27 19:39:39]: §9 By: www.nickuc.com - V 10.4.17 DEVELOPMENT
+[2024/11/27 19:39:39]: §9 
+[2024/11/27 19:39:39]: §3[nLogin] [DEBUG] All settings were loaded in 70 ms.
+[2024/11/27 19:39:40]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2024/11/27 19:39:40]: §3[nLogin] [DEBUG] All plugin messages were loaded in 50 ms (languageByClient=false).
+[2024/11/27 19:39:40]: §3[nLogin] [DEBUG] All proxy settings were loaded in 1 ms.
+[2024/11/27 19:39:40]: §3[nLogin] [DEBUG] Loading database...
+[2024/11/27 19:39:40]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/11/27 19:44:45]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SrInvide', `unique_id` = aca80b317924313e882fb07c17ed4ad9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$chU9xfF6POiG4Oo0uN091edC4JrDIlvRfEd.gbrKjPk3vaA2GBzv6', `last_ip` = '127.207.97.161', `creation_date` = 2024-11-27 19:33:40.692, `last_seen` = 2024-11-27 19:44:45.869, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2024/11/27 19:44:45]: [nLogin] The user SrInvide has successfully logged in.
+[2024/11/27 19:44:55]: §3[nLogin] [DEBUG] All settings were loaded in 7 ms.
+[2024/11/27 19:44:55]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2024/11/27 19:44:55]: §3[nLogin] [DEBUG] All plugin messages were loaded in 5 ms (languageByClient=false).
+[2024/11/27 19:44:55]: §3[nLogin] [DEBUG] All proxy settings were loaded in 0 ms.
+[2024/11/27 19:44:57]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SrInvide', `unique_id` = aca80b317924313e882fb07c17ed4ad9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$chU9xfF6POiG4Oo0uN091edC4JrDIlvRfEd.gbrKjPk3vaA2GBzv6', `last_ip` = '127.207.97.161', `creation_date` = 2024-11-27 19:33:40.692, `last_seen` = 2024-11-27 19:44:57.813, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2024/11/27 19:45:13]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SrInvide', `unique_id` = aca80b317924313e882fb07c17ed4ad9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$chU9xfF6POiG4Oo0uN091edC4JrDIlvRfEd.gbrKjPk3vaA2GBzv6', `last_ip` = '127.207.97.161', `creation_date` = 2024-11-27 19:33:40.692, `last_seen` = 2024-11-27 19:45:13.566, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2024/11/27 19:45:13]: [nLogin] The user SrInvide has successfully logged in.
+[2024/11/27 19:46:42]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('carlo', 5b3f7b3c2fc33a5ea8cbe72701b72cea, null, null, '$2a$10$O5LSzSBVTMNSHtUiZoX5bOhKApTjwHNkNFmUE6p3dlqn6ug6Us.Mi', '127.207.97.161', '2024-11-27 19:46:42.54', '2024-11-27 19:46:42.54', null, null, '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}')" (applied to all columns)
+[2024/11/27 19:46:42]: [nLogin] The user carlo has successfully registered.
+[2024/11/27 19:46:55]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'carlo', `unique_id` = 5b3f7b3c2fc33a5ea8cbe72701b72cea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$O5LSzSBVTMNSHtUiZoX5bOhKApTjwHNkNFmUE6p3dlqn6ug6Us.Mi', `last_ip` = '127.207.97.161', `creation_date` = 2024-11-27 19:46:42.54, `last_seen` = 2024-11-27 19:46:55.563, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":true,"key":"force-invalid-session"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 2" (applied to [last_seen, settings] columns)
+[2024/11/27 19:55:50]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('esvandal', f25318aca593387d804c63da39e21e76, null, null, '$2a$10$Ph69se4NILy665YU4E3otuBWjn1xSAeErXOhyNDFvX8Z6LCI.elWq', '127.207.97.161', '2024-11-27 19:55:50.873', '2024-11-27 19:55:50.873', null, null, '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}')" (applied to all columns)
+[2024/11/27 19:55:50]: [nLogin] The user esvandal has successfully registered.
+[2024/11/27 19:56:34]: [nLogin] Successful plugin core shutdown (took 0.00s)

@@ -1,105 +1,1426 @@
-[17:58:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[17:58:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[17:58:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:58:09] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/floodgate-spigot.jar'...
-[17:58:13] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/floodgate-spigot.jar' in 3720ms.
-[17:58:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[17:58:13] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
- - Geyser-Spigot (2.5.0-SNAPSHOT), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[17:58:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:58:19] [ServerMain/INFO]: Loaded 1337 recipes
-[17:58:19] [ServerMain/INFO]: Loaded 1448 advancements
-[17:58:19] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[17:58:19] [Server thread/INFO]: Loading properties
-[17:58:19] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[17:58:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:58:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:58:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:58:20] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[17:58:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[17:58:21] [Server thread/INFO]: Default game type: SURVIVAL
-[17:58:21] [Server thread/INFO]: Generating keypair
-[17:58:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:58:21] [Server thread/INFO]: Using epoll channel type
-[17:58:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:58:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:58:21] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[17:58:23] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[17:58:23] [Server thread/INFO]: [floodgate] Took 1,817ms to boot Floodgate
-[17:58:23] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.0-SNAPSHOT
-[17:58:24] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[17:58:24] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[17:58:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:58:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:58:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:58:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:58:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:58:24] [Server thread/INFO]: Preparing level "world"
-[17:58:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:58:24] [Server thread/INFO]: Preparing spawn area: 0%
-[17:58:25] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[17:58:25] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 274.4ms
-[17:58:25] [Server thread/INFO]: Preparing spawn area: 2%
-[17:58:25] [Server thread/INFO]: Preparing spawn area: 4%
-[17:58:25] [Server thread/INFO]: Time elapsed: 1355 ms
-[17:58:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:58:26] [Server thread/INFO]: Preparing spawn area: 0%
-[17:58:26] [Server thread/INFO]: Time elapsed: 257 ms
-[17:58:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:58:26] [Server thread/INFO]: Preparing spawn area: 0%
-[17:58:26] [Server thread/INFO]: Time elapsed: 129 ms
-[17:58:26] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[17:58:26] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.0-SNAPSHOT
-[17:58:27] [Server thread/INFO]: [spark] Starting background profiler...
-[17:58:27] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[17:58:27] [Server thread/INFO]: [Geyser-Spigot] 
-[17:58:27] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.0-b719 (git-master-c145c3f)
-[17:58:27] [Server thread/INFO]: [Geyser-Spigot] 
-[17:58:27] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[17:58:31] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[17:58:31] [Server thread/INFO]: [Geyser-Spigot] Done (4.522s)! Run /geyser help for help!
-[17:58:32] [Server thread/INFO]: Done preparing level "world" (7.855s)
-[17:58:32] [Server thread/INFO]: Running delayed init tasks
-[17:58:32] [Server thread/INFO]: Done (23.511s)! For help, type "help"
-[17:58:32] [ForkJoinPool.commonPool-worker-2/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
-[17:58:32] [ForkJoinPool.commonPool-worker-3/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
-[17:58:33] [ForkJoinPool.commonPool-worker-3/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
-[17:59:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:00:08] [Server thread/INFO]: Stopping the server
-[18:00:08] [Server thread/INFO]: Stopping server
-[18:00:08] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.0-SNAPSHOT
-[18:00:08] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[18:00:08] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[18:00:08] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[18:00:08] [Server thread/INFO]: Saving players
-[18:00:08] [WebSocketConnectReadThread-74/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[18:00:08] [Server thread/INFO]: Saving worlds
-[18:00:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 18 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[18:00:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[18:00:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[18:00:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[18:00:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:00:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:00:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:00:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18:00:08] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[18:00:08] [Server thread/INFO]: All I/O tasks to complete
-[18:00:08] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[18:00:08] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[21:11:02] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[21:11:02] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[21:11:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:11:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 11 plugins
+[21:11:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (11):
+ - AdvancedTeleport (5.6.14+DEV_158), AdvancedTeleport (6.1.1), FastAsyncWorldEdit (2.12.2), Geyser-Spigot (2.5.0-SNAPSHOT), Multiverse-Core (4.3.14), ProtocolLib (5.4.0-SNAPSHOT-736), SkinsRestorer (15.4.4), WorldGuard (7.0.13-beta-1+2f13ae0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e)), nLogin (10.4.17), zMenu (1.0.3.6)
+[21:11:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:11:08] [ServerMain/INFO]: Loaded 1337 recipes
+[21:11:08] [ServerMain/INFO]: Loaded 1448 advancements
+[21:11:09] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[21:11:09] [Server thread/INFO]: Loading properties
+[21:11:09] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[21:11:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:11:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:11:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:11:10] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:11:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:11:10] [Server thread/INFO]: Default game type: SURVIVAL
+[21:11:10] [Server thread/INFO]: Generating keypair
+[21:11:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:11:11] [Server thread/INFO]: Using epoll channel type
+[21:11:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:11:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:11:11] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'AdvancedTeleport' for files 'plugins/.paper-remapped/AdvancedTeleport-Bukkit-5.6.14+DEV_158.jar' and 'plugins/.paper-remapped/AdvancedTeleport-Bukkit-6.1.1-all.jar' in 'plugins/.paper-remapped'
+[21:11:12] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.12.2
+[21:11:12] [Server thread/WARN]: 
+**********************************************
+** You are using the Spigot-mapped FAWE jar on a modern Paper version.
+** This will result in slower first-run times and wasted disk space from plugin remapping.
+** Download the Paper FAWE jar from Modrinth to avoid this: https://modrinth.com/plugin/fastasyncworldedit/
+**********************************************
+[21:11:13] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7cefc49d]
+[21:11:13] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0-SNAPSHOT-736
+[21:11:13] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
+[21:11:13] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:11:14] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:11:14] [Server thread/INFO]: [floodgate] Took 606ms to boot Floodgate
+[21:11:14] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13-beta-1+2f13ae0
+[21:11:14] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.14
+[21:11:14] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.17
+[21:11:14] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.0-SNAPSHOT
+[21:11:15] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:11:15] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:11:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[21:11:15] [Server thread/INFO]: [zMenu] Loading server plugin zMenu v1.0.3.6
+[21:11:15] [Server thread/INFO]: [AdvancedTeleport] Loading server plugin AdvancedTeleport v5.6.14+DEV_158
+[21:11:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:11:15] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.12.2
+[21:11:15] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[21:11:15] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[21:11:15] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:11:15] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:11:15] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_3.PaperweightFaweAdapter as the Bukkit adapter
+[21:11:16] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0-SNAPSHOT-736
+[21:11:16] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.17
+[21:11:17] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.43s)
+[21:11:17] [Server thread/INFO]:           __             _       
+[21:11:17] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[21:11:17] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[21:11:17] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[21:11:17] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[21:11:17] [Server thread/INFO]:                   |___/            
+[21:11:17] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.17 DEVELOPMENT
+[21:11:17] [Server thread/INFO]:  
+[21:11:18] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[21:11:18] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:11:18] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[21:11:18] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[21:11:19] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:11:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:11:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:11:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:11:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:11:19] [Server thread/INFO]: Preparing level "world"
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.4.4
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: dc501c7
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:11:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:11:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:11:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:11:20] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[21:11:20] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 291.0ms
+[21:11:20] [Server thread/INFO]: Preparing spawn area: 2%
+[21:11:21] [Server thread/INFO]: Preparing spawn area: 2%
+[21:11:21] [Server thread/INFO]: Time elapsed: 1402 ms
+[21:11:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:11:21] [Server thread/INFO]: Preparing spawn area: 0%
+[21:11:21] [Server thread/INFO]: Time elapsed: 278 ms
+[21:11:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:11:21] [Server thread/INFO]: Preparing spawn area: 0%
+[21:11:21] [Server thread/INFO]: Time elapsed: 120 ms
+[21:11:21] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:11:21] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13-beta-1+2f13ae0
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[21:11:22] [Server thread/INFO]: [WorldGuard] Loading region data...
+[21:11:22] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[21:11:22] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[21:11:22] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[21:11:22] [Server thread/INFO]: Preparing start region for dimension minecraft:lobby
+[21:11:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:11:22] [Server thread/INFO]: Time elapsed: 248 ms
+[21:11:22] [Server thread/INFO]: [WorldGuard] (Lobby) TNT ignition is PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (Lobby) Lighters are PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (Lobby) Lava fire is PERMITTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] (Lobby) Fire spread is UNRESTRICTED.
+[21:11:22] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lobby'
+[21:11:22] [Server thread/INFO]: Preparing start region for dimension minecraft:survival
+[21:11:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:11:23] [Server thread/INFO]: Time elapsed: 171 ms
+[21:11:23] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[21:11:23] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[21:11:23] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is PERMITTED.
+[21:11:23] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[21:11:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[21:11:23] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[21:11:23] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[21:11:23] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[21:11:23] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.0-SNAPSHOT
+[21:11:23] [Server thread/INFO]: [zMenu] Enabling zMenu v1.0.3.6
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] === ENABLE START ===
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] Plugin Version V1.0.3.6
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/inventories/modos.yml loaded successfully !
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/website/inventories.yml loaded successfully !
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] 
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] You can support zMenu by upgrading your account here: https://minecraft-inventory-builder.com/account-upgrade
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] zMenu’s site includes an inventory editor (under development), a marketplace (already available) is a forum (under development)
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] 
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] Use ComponentMeta
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] Loading 1 commands
+[21:11:23] [Server thread/INFO]: [zMenu v1.0.3.6] === ENABLE DONE (155ms) ===
+[21:11:23] [Server thread/INFO]: [AdvancedTeleport] Enabling AdvancedTeleport v5.6.14+DEV_158
+[21:11:23] [Server thread/INFO]: [AdvancedTeleport] Advanced Teleport is now enabling...
+[21:11:23] [Server thread/ERROR]: Error occurred while enabling AdvancedTeleport v5.6.14+DEV_158 (Is it up to date?)
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at AdvancedTeleport-Bukkit-5.6.14+DEV_158.jar/io.github.niestrat99.advancedteleport.CoreClass.setupVersion(CoreClass.java:239) ~[AdvancedTeleport-Bukkit-5.6.14+DEV_158.jar:?]
+	at AdvancedTeleport-Bukkit-5.6.14+DEV_158.jar/io.github.niestrat99.advancedteleport.CoreClass.onEnable(CoreClass.java:116) ~[AdvancedTeleport-Bukkit-5.6.14+DEV_158.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:768) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:530) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:11:23] [Server thread/INFO]: [AdvancedTeleport] Disabling AdvancedTeleport v5.6.14+DEV_158
+[21:11:23] [Server thread/ERROR]: Error occurred while disabling AdvancedTeleport v5.6.14+DEV_158
+java.lang.NullPointerException: Cannot invoke "java.util.HashMap.keySet()" because "io.github.niestrat99.advancedteleport.managers.RTPManager.locQueue" is null
+	at AdvancedTeleport-Bukkit-5.6.14+DEV_158.jar/io.github.niestrat99.advancedteleport.managers.RTPManager.saveLocations(RTPManager.java:222) ~[AdvancedTeleport-Bukkit-5.6.14+DEV_158.jar:?]
+	at AdvancedTeleport-Bukkit-5.6.14+DEV_158.jar/io.github.niestrat99.advancedteleport.CoreClass.onDisable(CoreClass.java:147) ~[AdvancedTeleport-Bukkit-5.6.14+DEV_158.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:768) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:530) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:11:23] [Server thread/INFO]: [spark] Starting background profiler...
+[21:11:24] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:11:24] [Server thread/INFO]: [Geyser-Spigot] 
+[21:11:24] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.0-b719 (git-master-c145c3f)
+[21:11:24] [Server thread/INFO]: [Geyser-Spigot] 
+[21:11:24] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:11:29] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1339
+[21:11:29] [Server thread/INFO]: [Geyser-Spigot] Done (4.808s)! Run /geyser help for help!
+[21:11:29] [Server thread/INFO]: Done preparing level "world" (9.863s)
+[21:11:29] [Server thread/INFO]: Running delayed init tasks
+[21:11:29] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[21:11:29] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[21:11:29] [Server thread/INFO]: Done (27.390s)! For help, type "help"
+[21:11:29] [Craft Scheduler Thread - 1 - zMenu/INFO]: [zMenu v1.0.3.6] No update available.
+[21:12:06] [Server thread/INFO]: CONSOLE: Usage: /reload [permissions|commands|confirm]
+[21:12:13] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[21:12:19] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:12:19] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:12:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:12:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:12:19] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:12:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:12:19] [Server thread/INFO]: [zMenu] Disabling zMenu v1.0.3.6
+[21:12:19] [Server thread/INFO]: [zMenu v1.0.3.6] === DISABLE START ===
+[21:12:19] [Server thread/INFO]: [zMenu v1.0.3.6] === DISABLE DONE (6ms) ===
+[21:12:19] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[21:12:19] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.0-SNAPSHOT
+[21:12:19] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:12:19] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:12:19] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.17
+[21:12:19] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[21:12:19] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[21:12:19] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13-beta-1+2f13ae0
+[21:12:19] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:12:19] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:12:19] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0-SNAPSHOT-736
+[21:12:19] [Server thread/ERROR]: *****************************************************************
+[21:12:19] [Server thread/ERROR]: *** WARNING                                                   ***
+[21:12:19] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[21:12:19] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[21:12:19] [Server thread/ERROR]: ***                                                           ***
+[21:12:19] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[21:12:19] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[21:12:19] [Server thread/ERROR]: *** on GitHub!                                                ***
+[21:12:19] [Server thread/ERROR]: *****************************************************************
+[21:12:19] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.12.2
+[21:12:19] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:12:19] [WebSocketConnectReadThread-104/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:12:20] [Server thread/INFO]: Loaded 1337 recipes
+[21:12:20] [Server thread/INFO]: Loaded 1448 advancements
+[21:12:20] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:12:20] [Server thread/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[21:12:20] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+ - AdvancedTeleport (6.1.1), FastAsyncWorldEdit (2.12.2), Geyser-Spigot (2.5.0-SNAPSHOT), Multiverse-Core (4.3.14), ProtocolLib (5.4.0-SNAPSHOT-736), SkinsRestorer (15.4.4), WorldGuard (7.0.13-beta-1+2f13ae0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e)), nLogin (10.4.17), zMenu (1.0.3.6)
+[21:12:20] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.12.2
+[21:12:20] [Server thread/WARN]: 
+**********************************************
+** You are using the Spigot-mapped FAWE jar on a modern Paper version.
+** This will result in slower first-run times and wasted disk space from plugin remapping.
+** Download the Paper FAWE jar from Modrinth to avoid this: https://modrinth.com/plugin/fastasyncworldedit/
+**********************************************
+[21:12:21] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@768c9167]
+[21:12:21] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0-SNAPSHOT-736
+[21:12:21] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
+[21:12:21] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:12:21] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:12:22] [Server thread/INFO]: [floodgate] Took 367ms to boot Floodgate
+[21:12:22] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13-beta-1+2f13ae0
+[21:12:22] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.14
+[21:12:22] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.17
+[21:12:22] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.0-SNAPSHOT
+[21:12:22] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:12:22] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:12:22] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[21:12:22] [Server thread/INFO]: [zMenu] Loading server plugin zMenu v1.0.3.6
+[21:12:22] [Server thread/INFO]: [AdvancedTeleport] Loading server plugin AdvancedTeleport v6.1.1
+[21:12:23] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
+[21:12:23] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
+[21:12:23] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for jar-relocator
+[21:12:23] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for jar-relocator
+[21:12:23] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm
+[21:12:23] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm
+[21:12:23] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm-commons
+[21:12:23] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm-commons
+[21:12:23] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
+[21:12:23] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib-jdk8
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib-jdk8
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib-common
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib-common
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for annotations
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for annotations
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib-jdk7
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib-jdk7
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-reflect
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-reflect
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-api
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-api
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-key
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-key
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-api
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-api
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-string
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-string
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-minimessage
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-minimessage
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-bukkit
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-bukkit
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson-legacy-impl
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson-legacy-impl
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-json
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-json
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for option
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for option
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-nbt
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-nbt
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-facet
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-facet
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-api
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-api
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-viaversion
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-viaversion
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-bungeecord
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-bungeecord
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-legacy
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-legacy
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-bukkit
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-bukkit
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-base
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-base
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for paperlib
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for paperlib
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for ConfigurationMaster-API
+[21:12:24] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for ConfigurationMaster-API
+[21:12:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:12:24] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.12.2
+[21:12:24] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[21:12:24] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[21:12:24] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:12:24] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:12:24] [Server thread/WARN]: Server reload detected. This may cause various issues with FastAsyncWorldEdit and dependent plugins. Reloading the server is not advised.
+[21:12:24] [Server thread/WARN]: For more information why reloading is bad, see https://madelinemiller.dev/blog/problem-with-reload/
+[21:12:24] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_3.PaperweightFaweAdapter as the Bukkit adapter
+[21:12:24] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0-SNAPSHOT-736
+[21:12:24] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.17
+[21:12:24] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.28s)
+[21:12:25] [Server thread/INFO]:           __             _       
+[21:12:25] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[21:12:25] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[21:12:25] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[21:12:25] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[21:12:25] [Server thread/INFO]:                   |___/            
+[21:12:25] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.17 DEVELOPMENT
+[21:12:25] [Server thread/INFO]:  
+[21:12:25] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[21:12:25] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[21:12:25] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:12:26] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[21:12:26] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[21:12:26] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:12:26] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:12:26] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[21:12:26] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[21:12:26] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[21:12:26] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[21:12:26] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[21:12:26] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[21:12:26] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[21:12:26] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[21:12:26] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[21:12:26] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[21:12:26] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[21:12:26] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[21:12:26] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[21:12:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655)
+[21:12:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604)
+[21:12:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1148)
+[21:12:26] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1038)
+[21:12:26] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[21:12:26] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[21:12:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015)
+[21:12:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000)
+[21:12:26] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505)
+[21:12:26] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454)
+[21:12:26] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890)
+[21:12:26] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664)
+[21:12:26] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329)
+[21:12:26] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340)
+[21:12:26] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.4.4
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: dc501c7
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:12:26] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:12:26] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13-beta-1+2f13ae0
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[21:12:26] [Server thread/INFO]: [WorldGuard] (Lobby) TNT ignition is PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (Lobby) Lighters are PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (Lobby) Lava fire is PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (Lobby) Fire spread is UNRESTRICTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lobby'
+[21:12:26] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is PERMITTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[21:12:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[21:12:26] [Server thread/INFO]: [WorldGuard] Loading region data...
+[21:12:26] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[21:12:26] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[21:12:26] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[21:12:26] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[21:12:26] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[21:12:27] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[21:12:27] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.0-SNAPSHOT
+[21:12:27] [Server thread/INFO]: [zMenu] Enabling zMenu v1.0.3.6
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] === ENABLE START ===
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] Plugin Version V1.0.3.6
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/inventories/modos.yml loaded successfully !
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/website/inventories.yml loaded successfully !
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] 
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] You can support zMenu by upgrading your account here: https://minecraft-inventory-builder.com/account-upgrade
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] zMenu’s site includes an inventory editor (under development), a marketplace (already available) is a forum (under development)
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] 
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] Use ComponentMeta
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] Loading 1 commands
+[21:12:27] [Server thread/INFO]: [zMenu v1.0.3.6] === ENABLE DONE (88ms) ===
+[21:12:27] [Server thread/INFO]: [AdvancedTeleport] Enabling AdvancedTeleport v6.1.1
+[21:12:27] [Server thread/INFO]: [AdvancedTeleport] Performing server version check.
+[21:12:27] [Server thread/INFO]: [AdvancedTeleport] Detected major version: 21
+[21:12:27] [Server thread/INFO]: [AdvancedTeleport] Advanced Teleport is now enabling...
+[21:12:27] [Server thread/INFO]: [AdvancedTeleport] Setting up permissions integration with Vault.
+[21:12:27] [Server thread/INFO]: [AdvancedTeleport] Vault is not on the server, skipping.
+[21:12:27] [Server thread/INFO]: [AdvancedTeleport] Loading MainConfig.
+[21:12:27] [Server thread/INFO]: [AdvancedTeleport] Registered the image warp_default!
+[21:12:27] [Server thread/INFO]: [AdvancedTeleport] Registered the image home_default!
+[21:12:27] [Server thread/INFO]: [AdvancedTeleport] Registered the image spawn_default!
+[21:12:27] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:12:27] [Server thread/INFO]: [Geyser-Spigot] 
+[21:12:27] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.0-b719 (git-master-c145c3f)
+[21:12:27] [Server thread/INFO]: [Geyser-Spigot] 
+[21:12:27] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:12:29] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[21:12:31] [epollEventLoopGroup-9-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1339
+[21:12:31] [Server thread/INFO]: [Geyser-Spigot] Done (3.377s)! Run /geyser help for help!
+[21:12:31] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11653ms or 233 ticks behind
+[21:12:31] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[21:12:31] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[21:12:31] [Craft Scheduler Thread - 7 - AdvancedTeleport/INFO]: [AdvancedTeleport] Preparing random teleportation locations. If your server performance or memory suffers, please set `use-rapid-response` to false in the config.yml file.
+[21:12:31] [Craft Scheduler Thread - 7 - AdvancedTeleport/INFO]: [AdvancedTeleport] Plugin is up to date!
+[21:12:31] [Craft Scheduler Thread - 6 - zMenu/INFO]: [zMenu v1.0.3.6] No update available.
+[21:12:37] [Server thread/INFO]: SrInvide (/127.207.97.161:32959) lost connection: Disconnected
+[21:12:38] [User Authenticator #0/INFO]: UUID of player SrInvide is aca80b31-7924-313e-882f-b07c17ed4ad9
+[21:12:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:12:47] [User Authenticator #0/INFO]: UUID of player SrInvide is aca80b31-7924-313e-882f-b07c17ed4ad9
+[21:12:48] [Server thread/INFO]: SrInvide joined the game
+[21:12:48] [Server thread/INFO]: SrInvide[/127.207.97.161:42235] logged in with entity id 212 at ([Lobby]0.4829281572088305, 0.0, 0.7962412370290496)
+[21:12:56] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user SrInvide has successfully logged in.
+[21:13:05] [Server thread/INFO]: SrInvide issued server command: /weather clear
+[21:13:05] [Server thread/INFO]: [SrInvide: Set the weather to clear]
+[21:13:23] [Server thread/INFO]: SrInvide issued server command: /gamerule doWeatherCycle false
+[21:13:23] [Server thread/INFO]: [SrInvide: Gamerule doWeatherCycle is now set to: false]
+[21:13:29] [Server thread/INFO]: SrInvide issued server command: /spawn
+[21:13:36] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:14:28] [Server thread/INFO]: SrInvide issued server command: /zm reload
+[21:14:28] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/inventories/modos.yml loaded successfully !
+[21:14:28] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/website/inventories.yml loaded successfully !
+[21:14:29] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:14:44] [Server thread/INFO]: SrInvide issued server command: /warp survival
+[21:14:52] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:16:21] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:16:35] [Server thread/INFO]: SrInvide issued server command: /zm reload
+[21:16:35] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/inventories/modos.yml loaded successfully !
+[21:16:35] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/website/inventories.yml loaded successfully !
+[21:16:36] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:17:20] [Server thread/INFO]: SrInvide issued server command: /zm reload
+[21:17:20] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/inventories/modos.yml loaded successfully !
+[21:17:20] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/website/inventories.yml loaded successfully !
+[21:17:21] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:17:28] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:17:31] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:17:40] [Server thread/INFO]: esvandal (/127.207.97.161:35491) lost connection: Disconnected
+[21:17:40] [User Authenticator #1/INFO]: UUID of player esvandal is f25318ac-a593-387d-804c-63da39e21e76
+[21:17:54] [User Authenticator #1/INFO]: UUID of player esvandal is f25318ac-a593-387d-804c-63da39e21e76
+[21:17:55] [Server thread/INFO]: esvandal joined the game
+[21:17:55] [Server thread/INFO]: esvandal[/127.207.97.161:46669] logged in with entity id 441 at ([Lobby]0.4829281572088305, 0.0, 0.7962412370290496)
+[21:17:59] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user esvandal has successfully logged in.
+[21:18:04] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos esvandal
+[21:18:14] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos esvandal
+[21:19:01] [Server thread/INFO]: SrInvide issued server command: /zm reload
+[21:19:01] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/inventories/modos.yml loaded successfully !
+[21:19:01] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/website/inventories.yml loaded successfully !
+[21:19:06] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos esvandal
+[21:19:18] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos esvandal
+[21:20:45] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:20:49] [Server thread/INFO]: SrInvide issued server command: /gamemode adventure
+[21:20:49] [Server thread/INFO]: [SrInvide: Set own game mode to Adventure Mode]
+[21:20:53] [Server thread/INFO]: SrInvide issued server command: /gamemode survival
+[21:20:53] [Server thread/INFO]: [SrInvide: Set own game mode to Survival Mode]
+[21:20:54] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:21:03] [Server thread/INFO]: SrInvide issued server command: /zm open zmenu:modos
+[21:21:22] [Server thread/INFO]: SrInvide issued server command: /mvtp spawn
+[21:21:27] [Server thread/INFO]: SrInvide issued server command: /mvtp lobby
+[21:21:34] [Server thread/INFO]: SrInvide issued server command: /mvtp survival
+[21:21:46] [Server thread/INFO]: SrInvide issued server command: /gamemode adventure
+[21:21:46] [Server thread/INFO]: [SrInvide: Set own game mode to Adventure Mode]
+[21:21:47] [Server thread/INFO]: SrInvide issued server command: /gamemode spectator
+[21:21:47] [Server thread/INFO]: [SrInvide: Set own game mode to Spectator Mode]
+[21:21:48] [Server thread/INFO]: SrInvide issued server command: /gamemode creative
+[21:21:48] [Server thread/INFO]: [SrInvide: Set own game mode to Creative Mode]
+[21:21:56] [Server thread/INFO]: SrInvide issued server command: /mvtp lobby
+[21:21:59] [Server thread/INFO]: SrInvide issued server command: /mvtp survival
+[21:23:30] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:23:30] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:23:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:23:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:23:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:23:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:23:30] [Server thread/INFO]: [AdvancedTeleport] Disabling AdvancedTeleport v6.1.1
+[21:23:30] [Server thread/INFO]: [zMenu] Disabling zMenu v1.0.3.6
+[21:23:30] [Server thread/INFO]: [zMenu v1.0.3.6] === DISABLE START ===
+[21:23:30] [Server thread/INFO]: [zMenu v1.0.3.6] === DISABLE DONE (2ms) ===
+[21:23:30] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[21:23:30] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.0-SNAPSHOT
+[21:23:30] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:23:30] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:23:30] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.17
+[21:23:30] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[21:23:30] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[21:23:30] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13-beta-1+2f13ae0
+[21:23:30] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:23:30] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:23:30] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0-SNAPSHOT-736
+[21:23:30] [Server thread/ERROR]: *****************************************************************
+[21:23:30] [Server thread/ERROR]: *** WARNING                                                   ***
+[21:23:30] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[21:23:30] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[21:23:30] [Server thread/ERROR]: ***                                                           ***
+[21:23:30] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[21:23:30] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[21:23:30] [Server thread/ERROR]: *** on GitHub!                                                ***
+[21:23:30] [Server thread/ERROR]: *****************************************************************
+[21:23:30] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.12.2
+[21:23:30] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:23:30] [WebSocketConnectReadThread-169/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:23:31] [Server thread/INFO]: Loaded 1337 recipes
+[21:23:31] [Server thread/INFO]: Loaded 1448 advancements
+[21:23:31] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:23:31] [Paper Async Command Builder Thread Pool - 4/ERROR]: Caught previously unhandled exception :
+[21:23:31] [Paper Async Command Builder Thread Pool - 4/ERROR]: Paper Async Command Builder Thread Pool - 4
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:536) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:501) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:480) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:23:31] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/ConditionalEvents.jar'...
+[21:23:31] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ConditionalEvents.jar' in 268ms.
+[21:23:31] [Server thread/INFO]: [PluginInitializerManager] Initialized 11 plugins
+[21:23:31] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (11):
+ - AdvancedTeleport (6.1.1), ConditionalEvents (4.58.1), FastAsyncWorldEdit (2.12.2), Geyser-Spigot (2.5.0-SNAPSHOT), Multiverse-Core (4.3.14), ProtocolLib (5.4.0-SNAPSHOT-736), SkinsRestorer (15.4.4), WorldGuard (7.0.13-beta-1+2f13ae0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e)), nLogin (10.4.17), zMenu (1.0.3.6)
+[21:23:32] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.12.2
+[21:23:32] [Server thread/WARN]: 
+**********************************************
+** You are using the Spigot-mapped FAWE jar on a modern Paper version.
+** This will result in slower first-run times and wasted disk space from plugin remapping.
+** Download the Paper FAWE jar from Modrinth to avoid this: https://modrinth.com/plugin/fastasyncworldedit/
+**********************************************
+[21:23:33] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@75920b15]
+[21:23:33] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0-SNAPSHOT-736
+[21:23:33] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
+[21:23:34] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13-beta-1+2f13ae0
+[21:23:34] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:23:34] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:23:34] [Server thread/INFO]: [floodgate] Took 449ms to boot Floodgate
+[21:23:34] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.58.1
+[21:23:34] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.14
+[21:23:34] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.17
+[21:23:35] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.0-SNAPSHOT
+[21:23:35] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:23:35] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:23:35] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[21:23:35] [Server thread/INFO]: [zMenu] Loading server plugin zMenu v1.0.3.6
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Loading server plugin AdvancedTeleport v6.1.1
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for jar-relocator
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for jar-relocator
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm-commons
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm-commons
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
+[21:23:35] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib-jdk8
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib-jdk8
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib-common
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib-common
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for annotations
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for annotations
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib-jdk7
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib-jdk7
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-reflect
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-reflect
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-api
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-api
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-key
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-key
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-api
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-api
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-string
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-string
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-minimessage
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-minimessage
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-bukkit
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-bukkit
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson-legacy-impl
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson-legacy-impl
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-json
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-json
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for option
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for option
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-nbt
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-nbt
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-facet
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-facet
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-api
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-api
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-viaversion
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-viaversion
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-bungeecord
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-bungeecord
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-legacy
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-legacy
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-bukkit
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-bukkit
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-base
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-base
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for paperlib
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for paperlib
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for ConfigurationMaster-API
+[21:23:36] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for ConfigurationMaster-API
+[21:23:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:23:36] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.12.2
+[21:23:36] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[21:23:36] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[21:23:36] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:23:36] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:23:36] [Server thread/WARN]: Server reload detected. This may cause various issues with FastAsyncWorldEdit and dependent plugins. Reloading the server is not advised.
+[21:23:36] [Server thread/WARN]: For more information why reloading is bad, see https://madelinemiller.dev/blog/problem-with-reload/
+[21:23:36] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_3.PaperweightFaweAdapter as the Bukkit adapter
+[21:23:36] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0-SNAPSHOT-736
+[21:23:36] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.17
+[21:23:37] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.23s)
+[21:23:37] [Server thread/INFO]:           __             _       
+[21:23:37] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[21:23:37] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[21:23:37] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[21:23:37] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[21:23:37] [Server thread/INFO]:                   |___/            
+[21:23:37] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.17 DEVELOPMENT
+[21:23:37] [Server thread/INFO]:  
+[21:23:37] [Server thread/INFO]: esvandal lost connection: El plugin se ha recargado con éxito.
+[21:23:37] [Server thread/INFO]: esvandal left the game
+[21:23:37] [Server thread/INFO]: SrInvide lost connection: El plugin se ha recargado con éxito.
+[21:23:37] [Server thread/INFO]: SrInvide left the game
+[21:23:37] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[21:23:38] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[21:23:38] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:23:38] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[21:23:38] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[21:23:38] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:23:38] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13-beta-1+2f13ae0
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.4.4
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: dc501c7
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:23:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[21:23:38] [Server thread/INFO]: [WorldGuard] (Lobby) TNT ignition is PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (Lobby) Lighters are PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (Lobby) Lava fire is PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (Lobby) Fire spread is UNRESTRICTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lobby'
+[21:23:38] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is PERMITTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[21:23:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[21:23:38] [Server thread/INFO]: [WorldGuard] Loading region data...
+[21:23:38] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:23:38] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[21:23:38] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[21:23:38] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[21:23:38] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[21:23:38] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[21:23:38] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[21:23:38] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[21:23:38] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[21:23:38] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[21:23:38] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[21:23:38] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[21:23:38] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[21:23:38] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[21:23:38] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655)
+[21:23:38] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604)
+[21:23:38] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1148)
+[21:23:38] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1038)
+[21:23:38] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[21:23:38] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[21:23:38] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015)
+[21:23:38] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000)
+[21:23:38] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505)
+[21:23:38] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454)
+[21:23:38] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890)
+[21:23:38] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664)
+[21:23:38] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329)
+[21:23:38] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340)
+[21:23:38] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[21:23:38] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[21:23:39] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.58.1
+[21:23:39] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[21:23:39] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[21:23:39] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[21:23:39] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[21:23:39] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[21:23:39] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[21:23:39] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[21:23:39] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.0-SNAPSHOT
+[21:23:39] [Server thread/INFO]: [zMenu] Enabling zMenu v1.0.3.6
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] === ENABLE START ===
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] Plugin Version V1.0.3.6
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/inventories/modos.yml loaded successfully !
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/website/inventories.yml loaded successfully !
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] 
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] You can support zMenu by upgrading your account here: https://minecraft-inventory-builder.com/account-upgrade
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] zMenu’s site includes an inventory editor (under development), a marketplace (already available) is a forum (under development)
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] 
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] Use ComponentMeta
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] Loading 1 commands
+[21:23:39] [Server thread/INFO]: [zMenu v1.0.3.6] === ENABLE DONE (93ms) ===
+[21:23:39] [Server thread/INFO]: [AdvancedTeleport] Enabling AdvancedTeleport v6.1.1
+[21:23:39] [Server thread/INFO]: [AdvancedTeleport] Performing server version check.
+[21:23:39] [Server thread/INFO]: [AdvancedTeleport] Detected major version: 21
+[21:23:39] [Server thread/INFO]: [AdvancedTeleport] Advanced Teleport is now enabling...
+[21:23:39] [Server thread/INFO]: [AdvancedTeleport] Setting up permissions integration with Vault.
+[21:23:39] [Server thread/INFO]: [AdvancedTeleport] Vault is not on the server, skipping.
+[21:23:39] [Server thread/INFO]: [AdvancedTeleport] Loading MainConfig.
+[21:23:39] [Server thread/INFO]: [AdvancedTeleport] Registered the image warp_default!
+[21:23:39] [Server thread/INFO]: [AdvancedTeleport] Registered the image home_default!
+[21:23:39] [Server thread/INFO]: [AdvancedTeleport] Registered the image spawn_default!
+[21:23:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:23:39] [Server thread/INFO]: [Geyser-Spigot] 
+[21:23:39] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.0-b719 (git-master-c145c3f)
+[21:23:39] [Server thread/INFO]: [Geyser-Spigot] 
+[21:23:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:23:43] [epollEventLoopGroup-15-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1339
+[21:23:43] [Server thread/INFO]: [Geyser-Spigot] Done (3.381s)! Run /geyser help for help!
+[21:23:43] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12964ms or 259 ticks behind
+[21:23:43] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[21:23:43] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[21:23:43] [Craft Scheduler Thread - 48 - AdvancedTeleport/INFO]: [AdvancedTeleport] Preparing random teleportation locations. If your server performance or memory suffers, please set `use-rapid-response` to false in the config.yml file.
+[21:23:43] [Craft Scheduler Thread - 48 - AdvancedTeleport/INFO]: [AdvancedTeleport] Plugin is up to date!
+[21:23:43] [Craft Scheduler Thread - 5 - zMenu/INFO]: [zMenu v1.0.3.6] No update available.
+[21:24:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:33:44] [User Authenticator #2/INFO]: UUID of player SrInvide is aca80b31-7924-313e-882f-b07c17ed4ad9
+[21:33:45] [Server thread/INFO]: SrInvide joined the game
+[21:33:45] [Server thread/INFO]: SrInvide[/127.207.97.161:55103] logged in with entity id 815 at ([Lobby]0.4829281572088305, 0.0, 0.7962412370290496)
+[21:33:51] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user SrInvide has successfully logged in.
+[21:35:13] [Server thread/INFO]: SrInvide issued server command: /zmenu reload
+[21:35:13] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/inventories/modos.yml loaded successfully !
+[21:35:13] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/website/inventories.yml loaded successfully !
+[21:35:19] [Server thread/INFO]: SrInvide issued server command: /conditionalevents reload
+[21:35:19] [Server thread/ERROR]: Cannot load plugins/ConditionalEvents/config.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'reader', line 1, column 1:
+    Config:
+    ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 60, column 2:
+     comando_warp:
+     ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:112) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.configs.CEConfig.loadConfiguration(CEConfig.java:108) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.configs.CEConfig.reloadConfig(CEConfig.java:75) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.configs.MainConfigManager.reloadConfig(MainConfigManager.java:66) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.configs.ConfigsManager.reload(ConfigsManager.java:263) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.MainCommand.onCommand(MainCommand.java:47) ~[ConditionalEvents.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 1, column 1:
+    Config:
+    ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 60, column 2:
+     comando_warp:
+     ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:654) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:330) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.2.jar:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:105) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	... 35 more
+[21:35:43] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:35:43] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:35:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:35:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:35:43] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:35:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:35:43] [Server thread/INFO]: [AdvancedTeleport] Disabling AdvancedTeleport v6.1.1
+[21:35:43] [Server thread/INFO]: [zMenu] Disabling zMenu v1.0.3.6
+[21:35:43] [Server thread/INFO]: [zMenu v1.0.3.6] === DISABLE START ===
+[21:35:43] [Server thread/INFO]: [zMenu v1.0.3.6] === DISABLE DONE (1ms) ===
+[21:35:43] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[21:35:43] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.0-SNAPSHOT
+[21:35:43] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:35:43] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:35:43] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.17
+[21:35:43] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[21:35:43] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[21:35:43] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.58.1
+[21:35:43] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[21:35:43] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:35:43] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13-beta-1+2f13ae0
+[21:35:43] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:35:43] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0-SNAPSHOT-736
+[21:35:43] [Server thread/ERROR]: *****************************************************************
+[21:35:43] [Server thread/ERROR]: *** WARNING                                                   ***
+[21:35:43] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[21:35:43] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[21:35:43] [Server thread/ERROR]: ***                                                           ***
+[21:35:43] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[21:35:43] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[21:35:43] [Server thread/ERROR]: *** on GitHub!                                                ***
+[21:35:43] [Server thread/ERROR]: *****************************************************************
+[21:35:43] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.12.2
+[21:35:43] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:35:43] [WebSocketConnectReadThread-382/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:35:43] [Server thread/INFO]: Loaded 1337 recipes
+[21:35:43] [Server thread/INFO]: Loaded 1448 advancements
+[21:35:43] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:35:43] [Paper Async Command Builder Thread Pool - 7/ERROR]: Caught previously unhandled exception :
+[21:35:43] [Paper Async Command Builder Thread Pool - 7/ERROR]: Paper Async Command Builder Thread Pool - 7
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:536) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:501) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:480) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:35:43] [Server thread/INFO]: [PluginInitializerManager] Initialized 11 plugins
+[21:35:43] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (11):
+ - AdvancedTeleport (6.1.1), ConditionalEvents (4.58.1), FastAsyncWorldEdit (2.12.2), Geyser-Spigot (2.5.0-SNAPSHOT), Multiverse-Core (4.3.14), ProtocolLib (5.4.0-SNAPSHOT-736), SkinsRestorer (15.4.4), WorldGuard (7.0.13-beta-1+2f13ae0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e)), nLogin (10.4.17), zMenu (1.0.3.6)
+[21:35:44] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.12.2
+[21:35:44] [Server thread/WARN]: 
+**********************************************
+** You are using the Spigot-mapped FAWE jar on a modern Paper version.
+** This will result in slower first-run times and wasted disk space from plugin remapping.
+** Download the Paper FAWE jar from Modrinth to avoid this: https://modrinth.com/plugin/fastasyncworldedit/
+**********************************************
+[21:35:44] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@40057ba2]
+[21:35:44] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0-SNAPSHOT-736
+[21:35:44] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
+[21:35:45] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13-beta-1+2f13ae0
+[21:35:45] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:35:45] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:35:45] [Server thread/INFO]: [floodgate] Took 347ms to boot Floodgate
+[21:35:45] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.58.1
+[21:35:45] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.14
+[21:35:45] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.17
+[21:35:46] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.0-SNAPSHOT
+[21:35:46] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:35:46] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:35:46] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[21:35:46] [Server thread/INFO]: [zMenu] Loading server plugin zMenu v1.0.3.6
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Loading server plugin AdvancedTeleport v6.1.1
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for jar-relocator
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for jar-relocator
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm-commons
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm-commons
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
+[21:35:46] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib-jdk8
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib-jdk8
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib-common
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib-common
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for annotations
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for annotations
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-stdlib-jdk7
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-stdlib-jdk7
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for kotlin-reflect
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for kotlin-reflect
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-api
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-api
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-key
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-key
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-api
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-api
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-string
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-string
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-minimessage
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-minimessage
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-bukkit
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-bukkit
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson-legacy-impl
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson-legacy-impl
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-json
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-json
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for option
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for option
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-nbt
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-nbt
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-facet
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-facet
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-api
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-api
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-viaversion
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-viaversion
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-bungeecord
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-bungeecord
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-legacy
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-legacy
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-bukkit
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-bukkit
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-base
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-base
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for paperlib
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for paperlib
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for ConfigurationMaster-API
+[21:35:47] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for ConfigurationMaster-API
+[21:35:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:35:47] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.12.2
+[21:35:47] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[21:35:47] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[21:35:47] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:35:47] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:35:47] [Server thread/WARN]: Server reload detected. This may cause various issues with FastAsyncWorldEdit and dependent plugins. Reloading the server is not advised.
+[21:35:47] [Server thread/WARN]: For more information why reloading is bad, see https://madelinemiller.dev/blog/problem-with-reload/
+[21:35:47] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_3.PaperweightFaweAdapter as the Bukkit adapter
+[21:35:47] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0-SNAPSHOT-736
+[21:35:47] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.17
+[21:35:48] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.20s)
+[21:35:48] [Server thread/INFO]:           __             _       
+[21:35:48] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[21:35:48] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[21:35:48] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[21:35:48] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[21:35:48] [Server thread/INFO]:                   |___/            
+[21:35:48] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.17 DEVELOPMENT
+[21:35:48] [Server thread/INFO]:  
+[21:35:48] [Server thread/INFO]: SrInvide lost connection: El plugin se ha recargado con éxito.
+[21:35:48] [Server thread/INFO]: SrInvide left the game
+[21:35:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[21:35:48] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[21:35:48] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:35:48] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[21:35:49] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[21:35:49] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:35:49] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13-beta-1+2f13ae0
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[21:35:49] [Server thread/INFO]: [WorldGuard] (Lobby) TNT ignition is PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (Lobby) Lighters are PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (Lobby) Lava fire is PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (Lobby) Fire spread is UNRESTRICTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lobby'
+[21:35:49] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is PERMITTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[21:35:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[21:35:49] [Server thread/INFO]: [WorldGuard] Loading region data...
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.4.4
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: dc501c7
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:35:49] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:35:49] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:35:49] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[21:35:49] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[21:35:49] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[21:35:49] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[21:35:49] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[21:35:49] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[21:35:49] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[21:35:49] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[21:35:49] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[21:35:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[21:35:49] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[21:35:49] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[21:35:49] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[21:35:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655)
+[21:35:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604)
+[21:35:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1148)
+[21:35:49] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1038)
+[21:35:49] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[21:35:49] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[21:35:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015)
+[21:35:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000)
+[21:35:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505)
+[21:35:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454)
+[21:35:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890)
+[21:35:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664)
+[21:35:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329)
+[21:35:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340)
+[21:35:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[21:35:49] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[21:35:49] [Server thread/ERROR]: Cannot load plugins/ConditionalEvents/config.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'reader', line 1, column 1:
+    Config:
+    ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 60, column 2:
+     comando_warp:
+     ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:112) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.configs.CEConfig.loadConfiguration(CEConfig.java:108) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.configs.CEConfig.reloadConfig(CEConfig.java:75) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.configs.CEConfig.getConfig(CEConfig.java:61) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.configs.MainConfigManager.configure(MainConfigManager.java:38) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.configs.ConfigsManager.configure(ConfigsManager.java:31) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.ConditionalEvents.onEnable(ConditionalEvents.java:63) ~[ConditionalEvents.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1148) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.Bukkit.reload(Bukkit.java:1038) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 1, column 1:
+    Config:
+    ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 60, column 2:
+     comando_warp:
+     ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:654) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:330) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.2.jar:?]
+	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.2.jar:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:105) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[21:35:49] [Server thread/ERROR]: Error occurred while enabling ConditionalEvents v4.58.1 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.FileConfiguration.getBoolean(String)" because "config" is null
+	at ConditionalEvents.jar/ce.ajneb97.configs.MainConfigManager.configure(MainConfigManager.java:40) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.configs.ConfigsManager.configure(ConfigsManager.java:31) ~[ConditionalEvents.jar:?]
+	at ConditionalEvents.jar/ce.ajneb97.ConditionalEvents.onEnable(ConditionalEvents.java:63) ~[ConditionalEvents.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1148) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.Bukkit.reload(Bukkit.java:1038) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:35:49] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.58.1
+[21:35:49] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[21:35:49] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[21:35:49] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[21:35:49] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[21:35:49] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[21:35:49] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[21:35:49] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[21:35:49] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.0-SNAPSHOT
+[21:35:49] [Server thread/INFO]: [zMenu] Enabling zMenu v1.0.3.6
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] === ENABLE START ===
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] Plugin Version V1.0.3.6
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/inventories/modos.yml loaded successfully !
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] plugins/zMenu/website/inventories.yml loaded successfully !
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] 
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] You can support zMenu by upgrading your account here: https://minecraft-inventory-builder.com/account-upgrade
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] zMenu’s site includes an inventory editor (under development), a marketplace (already available) is a forum (under development)
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] 
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] Use ComponentMeta
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] Loading 1 commands
+[21:35:49] [Server thread/INFO]: [zMenu v1.0.3.6] === ENABLE DONE (134ms) ===
+[21:35:49] [Server thread/INFO]: [AdvancedTeleport] Enabling AdvancedTeleport v6.1.1
+[21:35:49] [Server thread/INFO]: [AdvancedTeleport] Performing server version check.
+[21:35:49] [Server thread/INFO]: [AdvancedTeleport] Detected major version: 21
+[21:35:49] [Server thread/INFO]: [AdvancedTeleport] Advanced Teleport is now enabling...
+[21:35:49] [Server thread/INFO]: [AdvancedTeleport] Setting up permissions integration with Vault.
+[21:35:49] [Server thread/INFO]: [AdvancedTeleport] Vault is not on the server, skipping.
+[21:35:49] [Server thread/INFO]: [AdvancedTeleport] Loading MainConfig.
+[21:35:50] [Server thread/INFO]: [AdvancedTeleport] Registered the image warp_default!
+[21:35:50] [Server thread/INFO]: [AdvancedTeleport] Registered the image home_default!
+[21:35:50] [Server thread/INFO]: [AdvancedTeleport] Registered the image spawn_default!
+[21:35:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:35:50] [Server thread/INFO]: [Geyser-Spigot] 
+[21:35:50] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.0-b719 (git-master-c145c3f)
+[21:35:50] [Server thread/INFO]: [Geyser-Spigot] 
+[21:35:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:35:53] [epollEventLoopGroup-21-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1339
+[21:35:53] [Server thread/INFO]: [Geyser-Spigot] Done (2.986s)! Run /geyser help for help!
+[21:35:53] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:35:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10141ms or 202 ticks behind
+[21:35:53] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[21:35:53] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[21:35:53] [Craft Scheduler Thread - 121 - AdvancedTeleport/INFO]: [AdvancedTeleport] Preparing random teleportation locations. If your server performance or memory suffers, please set `use-rapid-response` to false in the config.yml file.
+[21:35:53] [Craft Scheduler Thread - 121 - AdvancedTeleport/INFO]: [AdvancedTeleport] Plugin is up to date!
+[21:35:53] [Craft Scheduler Thread - 120 - zMenu/INFO]: [zMenu v1.0.3.6] No update available.
+[21:36:02] [User Authenticator #3/INFO]: UUID of player SrInvide is aca80b31-7924-313e-882f-b07c17ed4ad9
+[21:36:03] [Server thread/INFO]: SrInvide joined the game
+[21:36:03] [Server thread/INFO]: SrInvide[/127.207.97.161:53967] logged in with entity id 816 at ([Lobby]0.4829281572088305, 0.0, 0.7962412370290496)
+[21:36:07] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user SrInvide has successfully logged in.
+[21:36:10] [Server thread/INFO]: SrInvide issued server command: /warp
+[21:36:13] [Server thread/INFO]: SrInvide issued server command: /warps
+[21:37:09] [Server thread/WARN]: Unexpected exception while parsing console command "ce reload"
+org.bukkit.command.CommandException: Cannot execute command 'ce' in plugin ConditionalEvents v4.58.1 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:37:12] [Server thread/INFO]: SrInvide issued server command: /warp
+[21:37:14] [Server thread/INFO]: SrInvide issued server command: /warps
+[21:37:21] [Server thread/INFO]: SrInvide issued server command: /menu
+[21:38:26] [Server thread/INFO]: SrInvide issued server command: /ce reload
+[21:38:26] [Server thread/ERROR]: Command exception: /ce reload
+org.bukkit.command.CommandException: Cannot execute command 'ce' in plugin ConditionalEvents v4.58.1 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:38:34] [Server thread/INFO]: SrInvide issued server command: /conditionalevents reload
+[21:38:34] [Server thread/ERROR]: Command exception: /conditionalevents reload
+org.bukkit.command.CommandException: Cannot execute command 'conditionalevents' in plugin ConditionalEvents v4.58.1 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:39:40] [Server thread/WARN]: Unexpected exception while parsing console command "ce reload"
+org.bukkit.command.CommandException: Cannot execute command 'ce' in plugin ConditionalEvents v4.58.1 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:39:57] [Server thread/INFO]: Stopping the server
+[21:39:57] [Server thread/INFO]: Stopping server
+[21:39:57] [Server thread/INFO]: [AdvancedTeleport] Disabling AdvancedTeleport v6.1.1
+[21:39:57] [Server thread/INFO]: [zMenu] Disabling zMenu v1.0.3.6
+[21:39:57] [Server thread/INFO]: [zMenu v1.0.3.6] === DISABLE START ===
+[21:39:57] [Server thread/INFO]: [zMenu v1.0.3.6] === DISABLE DONE (2ms) ===
+[21:39:57] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[21:39:57] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.0-SNAPSHOT
+[21:39:57] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:39:57] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:39:57] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.17
+[21:39:57] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[21:39:57] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[21:39:57] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:39:57] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13-beta-1+2f13ae0
+[21:39:57] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:39:57] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0-SNAPSHOT-736
+[21:39:57] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.12.2
+[21:39:57] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:39:58] [Server thread/INFO]: Saving players
+[21:39:58] [Server thread/INFO]: SrInvide lost connection: Server closed
+[21:39:58] [Server thread/INFO]: SrInvide left the game
+[21:39:58] [WebSocketConnectReadThread-608/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:39:58] [Server thread/INFO]: Saving worlds
+[21:39:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 34 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:39:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:39:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:39:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Lobby]'/minecraft:lobby
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Lobby'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Lobby'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Lobby'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Saved 29 block chunks, 29 entity chunks, 0 poi chunks in world 'Lobby' in 0.03s
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Lobby'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Lobby'
+[21:39:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[survival]'/minecraft:survival
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'survival'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'survival'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'survival'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Saved 37 block chunks, 107 entity chunks, 0 poi chunks in world 'survival' in 0.12s
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'survival'
+[21:39:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'survival'
+[21:39:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:39:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:39:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:39:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (Lobby): All chunks are saved
+[21:39:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (survival): All chunks are saved
+[21:39:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:39:58] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[21:39:58] [Server thread/INFO]: All I/O tasks to complete
+[21:39:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:39:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

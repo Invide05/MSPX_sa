@@ -11,12 +11,12 @@
 # Forums: http://www.spigotmc.org/
 
 messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
+  whitelist: TU NO ESTAS EN LA LISTA BLANCA!
+  unknown-command: Comando desconcido. Escribe "/help" para ayuda.
+  server-full: El servidor esta lleno!
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  restart: Server se esta reiniciando
 settings:
   bungeecord: false
   save-user-cache-on-stop-only: false
@@ -38,7 +38,7 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  log-villager-deaths: true
+  log-villager-deaths: false
   log-named-deaths: true
   debug: false
 commands:
@@ -172,6 +172,8 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    verbose: false
+  worldeditregentempworld:
     verbose: false
 players:
   disable-saving: false

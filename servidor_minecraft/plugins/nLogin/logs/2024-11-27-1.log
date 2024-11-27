@@ -1,0 +1,50 @@
+[2024/11/27 19:32:38]: §9          __             _       
+[2024/11/27 19:32:38]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/11/27 19:32:38]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/11/27 19:32:38]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/11/27 19:32:38]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/11/27 19:32:38]: §9                  |___/            
+[2024/11/27 19:32:38]: §9 By: www.nickuc.com - V 10.4.17 DEVELOPMENT
+[2024/11/27 19:32:38]: §9 
+[2024/11/27 19:32:38]: §3[nLogin] [DEBUG] The config.yml file was created successfully.
+[2024/11/27 19:32:39]: §3[nLogin] [DEBUG] All settings were loaded in 706 ms.
+[2024/11/27 19:32:39]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2024/11/27 19:32:39]: §3[nLogin] [DEBUG] All plugin messages were loaded in 53 ms (languageByClient=false).
+[2024/11/27 19:32:39]: §3[nLogin] [DEBUG] All proxy settings were loaded in 1 ms.
+[2024/11/27 19:32:39]: §3[nLogin] [DEBUG] Loading database...
+[2024/11/27 19:32:39]: [nLogin] Generating RSA keypair... (this may take a while)
+[2024/11/27 19:32:41]: [nLogin] The RSA key pair was successfully generated. Took 1.40s
+[2024/11/27 19:32:41]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/11/27 19:32:55]: 
+[2024/11/27 19:32:55]:  §bThank you so much for choosing nLogin! §4<3
+[2024/11/27 19:32:55]: 
+[2024/11/27 19:32:55]:  §4For your safety, please read the message below:
+[2024/11/27 19:32:55]:   §cNever download nLogin from unknown sources.
+[2024/11/27 19:32:55]:   §cA modified version may contain malicious software.
+[2024/11/27 19:32:55]: 
+[2024/11/27 19:32:55]:  §3Trusted sources:
+[2024/11/27 19:32:55]:   §bwww.nickuc.com
+[2024/11/27 19:32:55]:   §bwww.github.com/nickuc
+[2024/11/27 19:32:55]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2024/11/27 19:32:55]: 
+[2024/11/27 19:32:55]:  §3Official support channels:
+[2024/11/27 19:32:55]:   §bDiscord group: §fwww.nickuc.com/discord
+[2024/11/27 19:32:55]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2024/11/27 19:32:55]:   §bEmail: §fsupport@nickuc.com
+[2024/11/27 19:32:55]:   §bYouTube: §fyoutube.com/nickuc
+[2024/11/27 19:32:55]: 
+[2024/11/27 19:32:55]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2024/11/27 19:32:55]:  §eand click the "Setup plugin" button to configure your plugin.
+[2024/11/27 19:32:55]: 
+[2024/11/27 19:33:40]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('SrInvide', aca80b317924313e882fb07c17ed4ad9, null, null, '$2a$10$chU9xfF6POiG4Oo0uN091edC4JrDIlvRfEd.gbrKjPk3vaA2GBzv6', '127.207.97.161', '2024-11-27 19:33:40.692', '2024-11-27 19:33:40.692', null, null, '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}')" (applied to all columns)
+[2024/11/27 19:33:40]: [nLogin] The user SrInvide has successfully registered.
+[2024/11/27 19:34:08]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SrInvide', `unique_id` = aca80b317924313e882fb07c17ed4ad9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$chU9xfF6POiG4Oo0uN091edC4JrDIlvRfEd.gbrKjPk3vaA2GBzv6', `last_ip` = '127.207.97.161', `creation_date` = 2024-11-27 19:33:40.692, `last_seen` = 2024-11-27 19:34:08.67, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":true,"key":"force-invalid-session"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2024/11/27 19:34:21]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SrInvide', `unique_id` = aca80b317924313e882fb07c17ed4ad9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$chU9xfF6POiG4Oo0uN091edC4JrDIlvRfEd.gbrKjPk3vaA2GBzv6', `last_ip` = '127.207.97.161', `creation_date` = 2024-11-27 19:33:40.692, `last_seen` = 2024-11-27 19:34:21.659, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2024/11/27 19:34:21]: [nLogin] The user SrInvide has successfully logged in.
+[2024/11/27 19:34:29]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SrInvide', `unique_id` = aca80b317924313e882fb07c17ed4ad9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$chU9xfF6POiG4Oo0uN091edC4JrDIlvRfEd.gbrKjPk3vaA2GBzv6', `last_ip` = '127.207.97.161', `creation_date` = 2024-11-27 19:33:40.692, `last_seen` = 2024-11-27 19:34:29.367, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2024/11/27 19:34:34]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SrInvide', `unique_id` = aca80b317924313e882fb07c17ed4ad9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$chU9xfF6POiG4Oo0uN091edC4JrDIlvRfEd.gbrKjPk3vaA2GBzv6', `last_ip` = '127.207.97.161', `creation_date` = 2024-11-27 19:33:40.692, `last_seen` = 2024-11-27 19:34:34.546, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2024/11/27 19:34:34]: [nLogin] The user SrInvide has successfully logged in.
+[2024/11/27 19:34:53]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SrInvide', `unique_id` = aca80b317924313e882fb07c17ed4ad9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$chU9xfF6POiG4Oo0uN091edC4JrDIlvRfEd.gbrKjPk3vaA2GBzv6', `last_ip` = '127.207.97.161', `creation_date` = 2024-11-27 19:33:40.692, `last_seen` = 2024-11-27 19:34:53.317, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2024/11/27 19:35:13]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SrInvide', `unique_id` = aca80b317924313e882fb07c17ed4ad9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$chU9xfF6POiG4Oo0uN091edC4JrDIlvRfEd.gbrKjPk3vaA2GBzv6', `last_ip` = '127.207.97.161', `creation_date` = 2024-11-27 19:33:40.692, `last_seen` = 2024-11-27 19:35:13.333, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2024/11/27 19:35:13]: [nLogin] The user SrInvide has successfully logged in.
+[2024/11/27 19:39:06]: [nLogin] Successful plugin core shutdown (took 0.00s)

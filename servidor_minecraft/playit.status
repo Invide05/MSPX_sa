@@ -1,335 +1,3408 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732729495278 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732741869085 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729498339 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741872171 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729501410 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741875257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729504487 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741878374 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729507565 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741881450 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729510639 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741884524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729513830 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741887595 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729516916 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741890800 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729520067 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741893889 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729523171 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741896947 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729526242 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741900006 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729529331 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741903071 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729532637 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741906149 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729535717 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741909227 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729538799 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741912293 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729541882 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741915361 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729544942 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741918436 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729548014 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741921512 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729551078 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741924598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729554140 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741927666 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729557205 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741930736 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729560290 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741933818 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729563373 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741936896 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729566462 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741939953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729569537 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741943022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729572649 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741946101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729575714 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741949167 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729578784 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741952239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729581847 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741955307 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729584908 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741958380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729587970 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741961444 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729591042 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741964653 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729594114 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741967752 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729597184 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741970821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729600257 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741973895 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729603338 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741976961 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729606408 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741980017 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729609471 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741983107 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729612533 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741986176 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729615612 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741989247 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729618730 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741992303 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729621793 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741995376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729624854 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732741998449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729627915 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742001524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729630994 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742004593 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729634070 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742007660 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729637184 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742010720 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729640257 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742013782 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729643342 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742016852 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729646408 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742019919 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729649479 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742022995 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729652542 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742026066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729655605 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742029141 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729658670 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742032211 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729661796 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742035275 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729664863 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742038345 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729667942 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742041433 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729671012 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742044502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729674076 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742047566 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729677152 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742050648 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729680218 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742053715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729683277 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742056783 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729686347 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742059849 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729689427 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742062909 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729692512 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742065974 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729695607 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742069039 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732729698677 tunnel running, 1 tunnels registered
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742072102 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742075179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742078257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742081317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742084385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742087469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742090536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742093617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742096680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742099767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742102846 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742105908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742108972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742112034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742115169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742118227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742121296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742124380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742127454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742130543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742133623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742136685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742139747 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742142813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742146067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742149164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742152241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742155305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742158371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742161435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742164505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742167564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742170654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742173720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742176791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742179908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742182998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742186068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742189151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742192224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742195284 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742198350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742201417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742204502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742207594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742210674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742213751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742216817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742219889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742222950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742226027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742229100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742232176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742235238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742238304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742241365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742244432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742247492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742250577 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742253636 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742256697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742259768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742262839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742265921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742268990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742272058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742275223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742278373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742281481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742284567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742287642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742290718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742293794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742296878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742299949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742303016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742306089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742309150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742312227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742315308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742318371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742321449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742324527 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742327600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742330663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742333727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742336793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742339856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742342944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742346003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742349079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742352157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742355216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742358297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742361448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742364512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742367581 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742370644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742373707 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742376772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742379852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742382937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742385995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742389061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742392138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742395204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742398273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742401343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742404412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742407488 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742410556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742413621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742416684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742419751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742422834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742425910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742428976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742432039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742435103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742438174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742441232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742444297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742447365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742450436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742453514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742456669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742459741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742462822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742465891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742468973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742472060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742475128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742478192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742481264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742484339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742487403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742490500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742493579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742496645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742499705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742502778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742505860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742508932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742512006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742515069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742518134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742521226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742524294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742527369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742530545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742533619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742536694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742539758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742542821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742545911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742548972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742552133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742555193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742558258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742561556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742564713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742567946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742571027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742574096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742577247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742580309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742583375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742586440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742589526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742592597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742595666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742598734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742601816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742604892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742607987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742611072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742614156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742617234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742620297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742623365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742626428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742629496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742632558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742635622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742638684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742641764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742644823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742647928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742650990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742654050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742657116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742660192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742663269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742666337 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742669413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742672472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742675543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742678612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742681688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742684764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742687910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742690974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742694034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742697101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742700270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742703340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742706418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742709489 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742712547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742715626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742718692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742721753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742724819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742727881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742730951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742734016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742737076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742740151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742743212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742746277 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742749340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742752412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742755634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742758706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742761958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742765275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742768333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742771396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742774453 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742777535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742780600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742783654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742786737 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742789796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742792921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742796010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742799090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742802186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742805469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742808528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742811586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742814651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742817717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742820776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742823838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742826904 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742829969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742833038 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742836102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742839163 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742842233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742845293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742848357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742851418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742854484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742857555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742860636 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742863715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742866781 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742869840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742872910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742875968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742879039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742882106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742885167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742888227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742891305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742894392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742897455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742900707 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742903778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742906893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742909956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742913020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742916085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742919150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742922209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742925270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742928341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742931485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742934563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742937639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742940753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742943823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742946885 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742949955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742953266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742956325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742959404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742962495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742965594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742968672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742971746 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742974820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742977891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742980964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742984036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742987110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742990182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742993243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742996304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732742999398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743002459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743005558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743008632 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743011701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743014764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743017827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743020897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743023966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743027026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743030115 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743033184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743036246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743039305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743042366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743045472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743048533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743051592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743054667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743057732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743060810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743064024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743067089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743070160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743073228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743076388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743079451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743082528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743085626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743088683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743091746 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743094812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743097872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743101008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743104136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743107228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743110301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743113366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743116427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743119589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743122866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743125948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743129012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743132191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743135290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743138368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743141454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743144518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743147603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743150771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743153847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743157023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743160093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743163161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743166236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743169318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743172398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743175460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743178522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743181600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743184666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743187724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743190949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743194004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743197078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743200137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743203194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743206274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743209343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743212421 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743215505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743218583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743221672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743224733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743227793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743230863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743233938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743237030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743240106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743243163 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743246276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743249371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743252429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743255500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743258643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743261743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743264806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743267879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743270965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743274024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743277106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743280184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743283261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743286332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743289392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743292461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743295521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743298591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743301651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743304733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743307820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743310902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743313967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743317040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743320113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743323173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743326235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743329304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743332412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743335505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743338577 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743341639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743344807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743347889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743350966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743354036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743357107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743360169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743363239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743366325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743369410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743372499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743375578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743378660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743381724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743384787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743387845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743390934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743394036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743397127 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743400243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743403322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743406406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743409471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743412532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743415601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743418668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743421748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743424804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743427996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743431059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743434134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743437231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743440296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743443353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743446418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743449492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743452553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743455607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743458855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743462385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743465459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743468532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743471603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743474667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743477737 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743481091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743484159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743487224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743490289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743493524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743496589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743499660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743502838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743505902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743508999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743512057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743515142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743518208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743521268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743524337 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743527398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743530461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743533517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743536581 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743539643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743542703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743545779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743548856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743551917 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743554982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743558053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743561113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743564188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743567258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743570328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743573402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743576467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743579531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743582594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743585651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743588717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743591802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743594868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743597925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743600988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743604058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743607120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743610194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743613267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1732743616327 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mobile-nextel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tree-implied.gl.at.ply.gg:1339 => 127.0.0.1:1339 (minecraft-bedrock)

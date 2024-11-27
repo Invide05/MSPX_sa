@@ -1,0 +1,63 @@
+name: 'MODOS DE JUEGO'
+size: 45
+items:
+  btn-1:
+    item:
+      material: GLASS_PANE
+      name: ""
+    slots:
+      - 1-7
+  survival:
+    slot: 11
+    commands:
+    - "warp survival"
+    closeInventory: true
+    item:
+      material: BOOKSHELF
+      name: §4§oSurvival
+      lore:
+      - "#42973e §lExplora, construye y sobrevive"
+      - "#42973e §len un mundo lleno de desafíos."
+      - "#42973e §l¡La aventura te espera!"
+  spawn:
+    slot: 13
+    commands:
+    - "spawn"
+    closeInventory: true
+    item:
+      material: AXOLOTL_BUCKET
+      name: §o§bSpawn
+      lore:
+      - "#d32ba5 §lVuelve al punto de inicio"
+      - "#d32ba5 §ly encuentra el camino"
+      - "#d32ba5 §lhacia nuevas aventuras."
+  pvp:
+    slot: 15
+    item:
+      material: STONE_SWORD
+      name: §d§oPVP
+      lore:
+      - "#ff0000 §lDemuestra tus habilidades en"
+      - "#ff0000 §lépicas batallas contra otros jugadores."
+      - "#ff0000 §l¡Solo los mejores sobrevivirán!"
+  btn-18:
+    item:
+      material: PINK_STAINED_GLASS_PANE
+      name: ""
+    slots:
+      - 18
+      - 26
+  proximamente:
+    item:
+      material: REDSTONE
+      name: §e§mPROXIMAMENTE
+      lore:
+      - "#6c7fc6 §kes que lo decubra es gay"
+    slots:
+      - 20-24
+  btn-36:
+    item:
+      material: TUBE_CORAL
+      name: ""
+    slots:
+      - 36-44
